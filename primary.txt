@@ -1,0 +1,14 @@
+#to run this project
+python src/main_word_captions.py --input samples/video.mp4 --model base --language en
+
+
+
+#important
+missed some words during .ass file
+
+
+
+#challenge 
+to process fast
+animation more and capital text 
+one white color add on

@@ -1,0 +1,8 @@
+envir
+__pycache__
+*.pyc
+primary.txt
+samples
+output
+*.mp4
+*.wav
